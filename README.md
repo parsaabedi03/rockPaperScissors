@@ -1,2 +1,2 @@
 # rockPaperScissors
-Rock Paper Scissors
+This project was so that I could better understand functions and conditions.
